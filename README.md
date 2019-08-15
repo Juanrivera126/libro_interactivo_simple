@@ -1,2 +1,2 @@
 Ejemplo de libro interactivo que utiliza el código del repositorio
-https://github.com/jlongi/libro_interactivo
+https://github.com/jlongi/libro_interactivo, en ejemplo en vivo puede verse desde https://jlongi.github.io/libro_interactivo_simple/index.html .
