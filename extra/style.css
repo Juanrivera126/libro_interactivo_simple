@@ -31,6 +31,9 @@ a {
   border-radius: 2px;
   background: #ffffff;
 }
+.image_link {
+  border: 2px solid #2ecc71;
+}
 
 li {
   padding: 0 0 0.4em 0;
